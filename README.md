@@ -1,8 +1,9 @@
 # hello-world
 
-Hello all the people on earth
-Remember my name.
+Hello all the people on earth.
+
 Spread some chilly vanilly easy peasy lemon squeezy vibes.
+
 Peace out. 
 
 Kisses,
